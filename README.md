@@ -12,3 +12,19 @@ Sinta-se à vontade para explorar o código e adaptá-lo conforme suas necessida
 
 ## Visualize as Cotações de Moedas em Ação!
 
+### Imagem do Bitcoin
+
+<img  width= "550" height = "550" src="https://github.com/MatheusFreit/cotacao-moedas/blob/master/imagens/BITCOIN.PNG" Alt = "bitcoin">
+
+### Imagem do Dólar
+
+<img width= "550" height = "550" src="https://github.com/MatheusFreit/cotacao-moedas/blob/master/imagens/DOLAR.PNG" Alt = "Dolar">
+
+### Imagem do Euro
+<img  width= "550" height = "550" src="https://github.com/MatheusFreit/cotacao-moedas/blob/master/imagens/EURO.PNG" Alt = "Dolar">
+
+## Gravação do Desenvolvimento: Integrando API de Cotação de Moedas com C#
+
+https://drive.google.com/file/d/1k72V93spd0ooq8DBA_ni1GcAL-ELc4N8/view?usp=sharing
+
+
