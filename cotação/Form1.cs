@@ -115,7 +115,7 @@ namespace cotação
                     }
                     break;
                 default:
-                    MessageBox.Show("erro ");
+                    MessageBox.Show("Desculpe, parece que houve um erro. A informação fornecida é inválida ou incorreta.", "Erro na Opção Selecionada", MessageBoxButtons.OK, MessageBoxIcon.Error);
                     break;
 
             }
