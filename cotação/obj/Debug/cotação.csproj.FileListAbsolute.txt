@@ -1,0 +1,13 @@
+D:\projeto com C#\Programa de cotação de moedas\cotação\bin\Debug\cotação.exe.config
+D:\projeto com C#\Programa de cotação de moedas\cotação\bin\Debug\cotação.exe
+D:\projeto com C#\Programa de cotação de moedas\cotação\bin\Debug\cotação.pdb
+D:\projeto com C#\Programa de cotação de moedas\cotação\obj\Debug\cotação.csproj.AssemblyReference.cache
+D:\projeto com C#\Programa de cotação de moedas\cotação\obj\Debug\cotação.Form1.resources
+D:\projeto com C#\Programa de cotação de moedas\cotação\obj\Debug\cotação.Properties.Resources.resources
+D:\projeto com C#\Programa de cotação de moedas\cotação\obj\Debug\cotação.csproj.GenerateResource.cache
+D:\projeto com C#\Programa de cotação de moedas\cotação\obj\Debug\cotação.csproj.CoreCompileInputs.cache
+D:\projeto com C#\Programa de cotação de moedas\cotação\obj\Debug\cotação.exe
+D:\projeto com C#\Programa de cotação de moedas\cotação\obj\Debug\cotação.pdb
+D:\projeto com C#\Programa de cotação de moedas\cotação\bin\Debug\Newtonsoft.Json.dll
+D:\projeto com C#\Programa de cotação de moedas\cotação\bin\Debug\Newtonsoft.Json.xml
+D:\projeto com C#\Programa de cotação de moedas\cotação\obj\Debug\cotação.csproj.CopyComplete
