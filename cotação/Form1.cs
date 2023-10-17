@@ -28,7 +28,7 @@ namespace cotação
         {
             switch (comboBox1moedas.SelectedIndex)
             {
-                case 0:
+                case 0: //bitcoin
                     try
                     {
                         string strURL = "https://api.hgbrasil.com/finance?array_limit=1&fields=only_results,BTC&key=e40e2324";
@@ -96,8 +96,8 @@ namespace cotação
                             {
                                 var result = response.Content.ReadAsStringAsync().Result;
                                 Market market = JsonConvert.DeserializeObject<Market>(result);
-                                lblcompra.Text = string.Format(CultureInfo.GetCultureInfo("pt-Br"), "{0:C}", market.currency.Buy);
-                                lblvenda.Text = string.Format(CultureInfo.GetCultureInfo("pt-Br"), "{0:C}", market.currency.Sell);
+                                lblcompra.Text = string.Format(CultureInfo.GetCultureInfo("pt-Br"), "{0:C3}", market.currency.Buy);
+                                lblvenda.Text = string.Format(CultureInfo.GetCultureInfo("pt-Br"), "{0:C3}", market.currency.Sell);
                                 lblvariacao.Text = string.Format(CultureInfo.GetCultureInfo("pt-Br"), "{0:P}", market.currency.Variation / 100);
 
                             }
